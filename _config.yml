@@ -1,8 +1,8 @@
 name: "Jacky Ho"
 description: "A data scientist"
 
-url: ''
-baseurl: ''
+url: 'https://jackyho112.github.io/jackyho112-2.github.io/'
+baseurl: 'https://jackyho112.github.io/jackyho112-2.github.io/'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
